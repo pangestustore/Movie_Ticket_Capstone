@@ -1,2 +1,2 @@
-# Movie_Ticket_Capstone
+# Movie-Ticket-Booking
 Capstone Project Gamelab Indonesia 
